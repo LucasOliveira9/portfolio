@@ -6,6 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div>
         <h1>Starting Portfólio</h1>
+        <h2></h2>
       </div>
     </main>
   );
